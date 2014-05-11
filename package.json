@@ -1,0 +1,30 @@
+{
+  "name": "webservices",
+  "version": "0.0.0",
+  "description": "",
+  "main": "rutas.js",
+  "dependencies": {
+    "body-parser": "~1.0.2",
+    "connect-redis": "~1.4.7",
+    "csprng": "~0.1.1",
+    "debug": "~0.7.4",
+    "hjs": "~0.0.6",
+    "logfmt": "~1.1.2",
+    "cookie-parser": "~1.0.1",
+    "express": "~4.0.0",
+    "mongodb": "~1.4.3",
+    "less-middleware": "~0.1.15",
+    "passport": "~0.2.0",
+    "passport-local": "~1.0.0",
+    "morgan": "~1.0.1",
+    "static-favicon": "~1.0.2",
+    "mongoose": "~3.8.9",
+    "nodejs-gravatar": "~1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
